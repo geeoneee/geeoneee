@@ -37,7 +37,10 @@
 ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![Jiwon's github stats](https://github-readme-stats.vercel.app/api?username=geeoneee)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geeoneee&show_icons=true&theme=dark" alt="Jiwon's GitHub Stats">
+</div>
 <!--
 **geeoneee/geeoneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
