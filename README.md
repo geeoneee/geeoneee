@@ -9,7 +9,8 @@
 
 
 ### 🎈 Experience
-- Intern, NAVER Cloud (25.02~)
+- Intern, Amazon Web Services (25.06 ~ now)
+- Intern, NAVER Cloud (25.02~25.06)
 - Intern, AI Engineer (24.12~25.02)
 - Backend Memeber, GDG, Google Developer Groups (25.09~)
 - Frontend Admin Team Member, CEOS, Sinchon Union IT Startup Club (24.09~25.02)
